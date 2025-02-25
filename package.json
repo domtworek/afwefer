@@ -1,0 +1,25 @@
+{
+  "name": "afwefer",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/domtworek/afwefer#readme",
+  "bugs": {
+    "url": "https://github.com/domtworek/afwefer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domtworek/afwefer.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "exports": {
+    "./src": "./src/"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
